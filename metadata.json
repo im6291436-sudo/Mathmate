@@ -1,0 +1,6 @@
+{
+  "name": "Mathmate",
+  "description": "যেকোনো গণিত ফটো তুলে বা টাইপ করে ধাপে ধাপে সমাধান করুন। AI Math Solver with photo scan, step-by-step solutions, interactive graphing, and formula book.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
